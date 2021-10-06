@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DibyajitTripathy97
-2
+
 - 👀 I’m interested in Automating Things
-3
+
 - 🌱 I’m currently learning Selenium 
 
 <!---
